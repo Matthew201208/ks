@@ -1,0 +1,17 @@
+Hello im eztli a really bad programmer 👋
+My website is www.lithium-dev.xyz
+My email is lithiumidnigh@proton.me
+PGP:
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZmKX6hYJKwYBBAHaRw8BAQdA8TFSzptOM7t8QI2n/zPX71Yf46vKJp6cEoB0
+8A1pqTG0JkxpdGhpdW0gZGV2IDxsaXRoaXVtaWRuaWdodEBwcm90b24ubWU+iJME
+ExYKADsCGwMFCwkIBwICIgIGFQoJCAsCBBYCAwECHgcCF4AWIQQXeYDM76GBeEAq
+veLs/5t0XsykawUCZmKgfwAKCRDs/5t0Xsyka5IhAQDL4BVXGOPopteC0EG54aeo
+h9cEuYFFTCDe5Hm3wY0UuQEAkq/ampcC0fHc7v2H1uN7Acl4kkeJtyB0ndvEAUch
+xw24OARmYpfqEgorBgEEAZdVAQUBAQdAQ3vvtouigwmAUztGq5jOGpe0rXb2Vt5u
+ZP45l8VFZn8DAQgHiHgEGBYKACACGwwWIQQXeYDM76GBeEAqveLs/5t0XsykawUC
+ZmKggAAKCRDs/5t0Xsyka4rUAP4xaY8NwyRSNF2xiSp7wJSXEA/oFJ34UVcVgNWy
+56JNlgD/bexESJLVXP/nwc+apxwnJx/ubREG+ct+SN8Houv6ogI=
+=4yhW
+-----END PGP PUBLIC KEY BLOCK-----
