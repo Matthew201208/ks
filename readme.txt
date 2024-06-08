@@ -13,7 +13,7 @@ will allow you to pick from the following
 	1, main pipeline
 	2, extra pipeline
 But... Im bad at programming and it wont work.
-Instead i provided the code in the s3header_beta_pipe folder
+Instead i provided the code in the ksl bramch 
 so you can create your own menu or API I guess
 
 Filetypes {
