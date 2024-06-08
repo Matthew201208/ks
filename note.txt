@@ -1,0 +1,10 @@
+this is for custom menus, scripts and more feel free to edit everything here
+import ksl to use functions
+
+docmain()
+docex()
+contact()
+main()
+ex()
+fileread()
+filewrite()
