@@ -38,7 +38,7 @@ _tt tiktok
 _yt youtube
 _sc snapchat
 _dc discord
-_dcs discord server
+_ds discord server
 _ex extra social
 // start comment
 comment
